@@ -1,0 +1,19 @@
+{
+  "out": "runs/tuning/lr0.001_b32_d1",
+  "epochs": 15,
+  "batch": 32,
+  "lr": 0.001,
+  "hidden_ab": [
+    64
+  ],
+  "hidden_eve": [
+    64,
+    64
+  ],
+  "eve_steps": 2,
+  "eve_noise": 0.0,
+  "eve_weight": 1.0,
+  "data_dir": "data",
+  "seed": 0,
+  "n_train": 50000
+}

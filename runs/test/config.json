@@ -1,0 +1,18 @@
+{
+  "out": "runs/test",
+  "epochs": 2,
+  "batch": 64,
+  "lr": 0.001,
+  "hidden_ab": [
+    64
+  ],
+  "hidden_eve": [
+    64,
+    64
+  ],
+  "eve_steps": 2,
+  "eve_noise": 0.0,
+  "data_dir": "data",
+  "seed": 0,
+  "n_train": 50000
+}

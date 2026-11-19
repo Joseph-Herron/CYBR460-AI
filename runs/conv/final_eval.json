@@ -1,0 +1,8 @@
+{
+  "n_test": 1000,
+  "bob_bit_accuracy": 0.9996875,
+  "eve_bit_accuracy": 0.5903125,
+  "bob_with_wrong_key": 0.5570625,
+  "bob_meets_target": true,
+  "eve_near_chance": false
+}
